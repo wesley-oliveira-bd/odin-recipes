@@ -4,6 +4,7 @@ img#index_img {
     width: 400px;
 }
 
-h1 {
+h1, h2, ul {
     font-family: Arial, Helvetica, sans-serif;
 }
+
