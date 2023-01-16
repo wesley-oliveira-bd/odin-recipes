@@ -2,8 +2,11 @@
 
 img#index_img {
     width: 600px;
+    height: 500px;
     border-color: black;
     border-style: solid;
+    padding: 5px;
+    position: aboslute;
     
 }
 
